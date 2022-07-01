@@ -1,0 +1,4 @@
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+tensorboardX==1.2
+tqdm==4.23.4
+numpy
