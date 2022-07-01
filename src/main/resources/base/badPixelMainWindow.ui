@@ -313,7 +313,7 @@ p, li { white-space: pre-wrap; }
             <item>
              <widget class="QLabel" name="label_num_epoch">
               <property name="text">
-               <string>Anzahl der Epochen:</string>
+               <string>Anzahl der Iterationen: </string>
               </property>
              </widget>
             </item>
